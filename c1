@@ -1,3 +1,4 @@
+{
 s=str(raw_input)
 
 if s is ('a','e','i','o','u'):
@@ -7,3 +8,4 @@ if s is ('a','e','i','o','u'):
 else:
 
 		print('it is a constant')
+		}
